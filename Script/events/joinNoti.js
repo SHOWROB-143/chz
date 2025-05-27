@@ -40,7 +40,7 @@ ${global.config.PREFIX}Help\n${global.config.PREFIX} Manu
 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 :SHOWROB ☢️_𖣘 -BOT ⚠️
 
 \n\n⋆✦⋆⎯⎯⎯⎯⎯⎯⎯⎯⎯⋆✦⋆
-`, attachment: fs.createReadStream(__dirname + "/cache/ullash.mp4")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "/cache/intro.mp4")} ,threadID));
     }
     else {
         try {
