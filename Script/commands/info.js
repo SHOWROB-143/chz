@@ -40,26 +40,47 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
  minutes = Math.floor((time % (60 * 60)) / 60),
  seconds = Math.floor(time % 60);
  const data = [
- "Bạn không thể tìm được lệnh admin tại 'help' của MintBot",
- "Đừng mong chờ gì từ MintBot.",
- "Cái đoạn này á? Của SpermBot.",
- "Nếu muốn không lỗi lệnh thì hãy xài những lệnh có trong help vì những lệnh lỗi đã bị ẩn rồi.",
- "Đây là một con bot được các coder của MiraiProject nhúng tay vào.",
- "Muốn biết sinh nhật của Mint thì hãy xài 'birthday'.",
- "Cặc.",
- "Cút.",
- "Lồn.",
- "Bạn chưa biết.",
- "Bạn đã biết.",
- "Bạn sẽ biết.",
- "Không có gì là hoàn hảo, MintBot là ví dụ.",
- "Mirai dropped.",
- "MintBot là MiraiProject nhưng module là idea của SpermBot.",
- "Bạn không biết cách sử dụng MintBot? Đừng dùng nữa.",
- "Muốn chơi game? Qua bot khác mà chơi đây không rảnh",
- "MintBot có thể hiểu phụ nữ nhưng không thể có được họ.",
- "MintBot cân spam nhưng không có gì đáng để bạn spam."
- ];
+"My Owner info & Any Problem Contact :-
+
+- নাম।         : সৌরভ খান
+
+- বর্তমান ঠিকানা  : ঢাকা 
+
+- স্থায়ী ঠিকানা    : ঢাকা
+
+- বয়স          : ২৩+
+
+- GENDER       : MALE
+
+- উচ্চতা         : ৫ ফুট ৬ইঞ্চি
+
+- জন্ম তারিখ     : ২৩ সেপ্টেম্বর ❌
+
+- পেশা          : স্টুডেন্ট 
+
+- যোগ্যতা        : অনার্স ৩য় বর্ষ 
+
+- রিলেশন শিপ    : সিঙ্গেল 
+
+- প্রিয় রং        : কালো ⚫😇
+
+- প্রিয় খাবার      : বিরিয়ানি❤️❤️
+
+- শখ            : নাই
+
+- ইচ্ছা           : নাই
+
+- আসল পরিচয়     : ইসলাম🌸🌺
+
+Profile 1 Link :- https://www.facebook.com/its.showrob.bbz0
+
+Profile 2 Link :- https://www.facebook.com/NOT.FOUND.THIS.LINK.SIR
+
+★Facebook Page Link:-https://www.facebook.com/MR.TOM69K
+
+WhatsApp       :- Personal
+
+★Support Email:- Showrobkhan041@gmail.com",];
  var link = [
  "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
  "https://i.imgur.com/WXQIgMz.jpeg",
