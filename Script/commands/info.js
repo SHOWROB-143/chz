@@ -82,11 +82,11 @@ WhatsApp       :- Personal
 
 ★Support Email:- Showrobkhan041@gmail.com",];
  var link = [
- "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
- "https://i.imgur.com/WXQIgMz.jpeg",
- "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
- "https://i.imgur.com/WXQIgMz.jpeg",
- "https://i.imgur.com/WXQIgMz.jpeg",
+ "https://i.postimg.cc/NM6WtQ3q/New-Project-14-6-B87-B80.png",
+ "https://i.postimg.cc/zBthZ56T/20241205-014000.png",
+ "https://i.postimg.cc/4NWnZGG9/Screenshot-20250527-230625.jpg",
+ "https://i.postimg.cc/4xw0B8zZ/Screenshot-20250527-233629.jpg",
+ "https://i.postimg.cc/4xw0B8zZ/Screenshot-20250527-233629.jpg",
  ];
 
  var i = 1;
